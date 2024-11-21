@@ -1,1 +1,0 @@
-std::iter::Map<std::iter::TakeWhile<std::iter::Enumerate<std::str::Chars<'_>>, {closure@06/src/main.rs:10:21: 10:29}>, {closure@06/src/main.rs:10:73: 10:80}>
